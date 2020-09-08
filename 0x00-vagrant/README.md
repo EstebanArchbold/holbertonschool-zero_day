@@ -1,0 +1,1 @@
+i created a directory added a readme.md file, use cd to go to my main, used the command uname and type my answer in the readme file and change the nae from the file.
