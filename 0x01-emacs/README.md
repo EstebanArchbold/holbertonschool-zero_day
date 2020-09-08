@@ -1,0 +1,1 @@
+in that task we learnd the commands and how to open a file, save a file, cut and entire line, paste it, search undo and quit, everything from emacs file.
